@@ -56,8 +56,8 @@ Arrêtez le serveur et supprimez le fichier `dungeon.db` : il sera recréé au p
 
 ## Notre rendu
 
-- **Membres du groupe :**
-- **Lien du dépôt Git :**
-- **Palier atteint :** (1, 2, 3 ou 4)
-- **Bonus réalisés :**
+- **Membres du groupe :** benjamin
+- **Lien du dépôt Git :** https://github.com/benj880/donjon-as-service.git
+- **Palier atteint :** (1, 2, 3 ou 4) 1 et 2 faits
+- **Bonus réalisés :** aucuns
 - **Ce qui ne fonctionne pas / difficultés :**
